@@ -1,5 +1,3 @@
-### Hallo du
-
 ![](https://www.seattleaquarium.org/sites/default/files/images/animal/river-otter_6.png)
 
 - 🎓 I’m currently studying informatics at NTNU Trondheim
