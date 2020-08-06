@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on developing iOS 14 apps with SwiftUI
 - 🌱 I’m currently learning realtime programming with Erlang/Elixir
 - 👯 I’m looking to collaborate on open source projects developing iOS/iPad/MacOS applications
-- 💬 Ask me about React.js
+- 💬 Ask me about React.js and SwiftUI
 - 📫 How to reach me: [email](mailto:fredrik.malmo@icloud.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: otters use rocks to smash open clams
