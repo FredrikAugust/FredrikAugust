@@ -1,10 +1,8 @@
-🎓 I’m currently done studying informatics at NTNU Trondheim
+🎓 I have a BSc in Informatics from NTNU Trondheim
 
-🔭 I’m currently working on migrating web services and network infrastructure to Azure
+🔭 I’m currently working on developing APIs in Kotlin and Spring Boot
 
-🌱 I’m currently learning either Go, Rust or Haskell
-
-👯 I’m looking to collaborate on fullstack web projects
+🌱 I’m currently learning Clean Architecture and software architecture patterns
 
 💬 Ask me about functional programming and Azure
 
