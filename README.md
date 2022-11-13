@@ -1,4 +1,4 @@
-🎓 I have a BSc in Informatics from NTNU Trondheim. I'm now doing a nanodegree in Software Reliability Engineering at Udacity.
+🎓 I have a BSc in Informatics from NTNU Trondheim
 
 🔭 I’m currently working on developing APIs in Kotlin and Spring Boot
 
