@@ -1,8 +1,8 @@
 🎓 I have a BSc in Informatics from NTNU Trondheim
 
-🔭 I’m currently working on developing APIs in Kotlin and Spring Boot
+🔭 I’m currently working in Operations and DevOps
 
-🌱 I’m currently learning software architecture patterns
+🌱 I’m currently learning how to do my job well
 
 💬 Ask me about functional programming, Azure and Cloud Networking
 
