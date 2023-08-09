@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning how to do my job well
 
-💬 Ask me about functional programming, Azure and Cloud Networking
+💬 Ask me about functional programming, observability and operations.
 
 📫 How to reach me: [email](mailto:fredrik.malmo@icloud.com) / [twitter](https://twitter.com/fredrikmmalmo)
