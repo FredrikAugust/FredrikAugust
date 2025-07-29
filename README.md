@@ -1,9 +1,12 @@
-🎓 I have a BSc in Informatics from NTNU Trondheim
+Backend and DevOps engineer specializing in Rust, Go, Kubernetes, and observability.
 
-🔭 I’m currently working in Operations and DevOps
+I mainly build web services and tooling for infrastructure. I'm fond of small, neat solutions to automate problems.
 
-🌱 I’m currently learning how to do my job well
+---
 
-💬 Ask me about functional programming, observability and operations.
+- **Languages:** Rust · Go · TypeScript  
+- **Frameworks:** Axum · Docker · GitHub Actions  
+- **Infra:** Kubernetes · Terraform · AWS  
+- **Observability:** OpenTelemetry · Prometheus · Grafana  
 
-📫 How to reach me: [email](mailto:fredrik.malmo@icloud.com) / [twitter](https://twitter.com/fredrikmmalmo)
+If you want to contact me the information can be found on my profile.
