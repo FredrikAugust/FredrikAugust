@@ -4,9 +4,8 @@ I mainly build web services and tooling for infrastructure. I'm fond of small, n
 
 ---
 
-- **Languages:** Rust · Go · TypeScript  
-- **Frameworks:** Axum · Docker · GitHub Actions  
-- **Infra:** Kubernetes · Terraform · AWS  
-- **Observability:** OpenTelemetry · Prometheus · Grafana  
+- **Languages:** Rust · Go · TypeScript · Bash
+- **Infra:** Kubernetes · OpenTofu/Terraform · AWS/GCP/Azure · Docker
+- **Observability:** OpenTelemetry · Prometheus · Grafana 
 
-If you want to contact me the information can be found on my profile.
+Want to talk? You can find my contact info on my profile.
